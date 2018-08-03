@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![N704JQ - Keep the dream alive!](https://i.imgur.com/NCo5ybH.png)
