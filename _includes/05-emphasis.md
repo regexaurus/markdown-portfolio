@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Over the years I've dabbled with various languages and markup standards including **C**, **C++**, **Perl**, **Python**, **Java**, **JavaScript**, **HTML**, **XHTML**, **XML**, **TCL/TK**, **BASIC**, even some _**assembly**_, etc.
